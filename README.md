@@ -20,7 +20,7 @@ library/          # Core game logic and AI
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone <repo-url>
+   git clone https://github.com/agoritma/tic-tac-toe-ai
    cd ai-tic-tac-toe
    ```
 2. (Optional) Create and activate a virtual environment:
